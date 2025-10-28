@@ -9,8 +9,9 @@
 {
     width: 20vw;
     height: 20vh;
-    border: solid black 1px;
+    border: solid black 2px;
     background-color: aqua;
-   margin-right: 30vw;
    margin-top: 30vh;
+  border-radius: 30px;
+ margin-left: 50vw;
 }
